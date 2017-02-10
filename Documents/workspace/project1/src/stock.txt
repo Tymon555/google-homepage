@@ -1,0 +1,8 @@
+7
+Ford_Fiesta Red 1999 False
+Skoda_Octavia Silver 6999 False
+Nissan_Micra Blue 2999 False
+Vauxhall_Astra Blue 2499 False
+Skoda_Fabia Green 6999 False
+Ford_Mondeo Blue 5999 False
+Ford_Mondeo Red 6999 False
